@@ -14,7 +14,7 @@ def get_requirements()->List[str]:
     return requirement_list
 setup(
     name = "sensor",
-    version = "0.0.1",
+    version = "0.0.3",
     author = "subhankar",
     author_email = "subhankarghoshds@gmail.com",
     packages = find_packages(),
